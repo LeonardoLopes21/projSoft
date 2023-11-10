@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Fri Nov 10 08:41:22 BRT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018b-b909-647a-000001393fa0 
+on database directory memory:C:\Users\17460855766\Documents\workspace-spring-tool-suite-4-4.20.1.RELEASE\FinalProjDevLab\3838e243-e6c6-4ab6-9cee-ab99cf1cac7b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/17460855766/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.8.1+1
+user.dir=C:\Users\17460855766\Documents\workspace-spring-tool-suite-4-4.20.1.RELEASE\FinalProjDevLab
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Nov 10 10:19:44 BRT 2023:
+Shutting down instance a816c00e-018b-b909-647a-000001393fa0 on database directory memory:C:\Users\17460855766\Documents\workspace-spring-tool-suite-4-4.20.1.RELEASE\FinalProjDevLab\3838e243-e6c6-4ab6-9cee-ab99cf1cac7b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Fri Nov 10 10:19:45 BRT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance e66540fa-018b-b909-647a-000001393fa0 
+on database directory memory:C:\Users\17460855766\Documents\workspace-spring-tool-suite-4-4.20.1.RELEASE\FinalProjDevLab\6a1a6abe-7a4b-4034-818f-dae2831fac7b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/17460855766/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.8.1+1
+user.dir=C:\Users\17460855766\Documents\workspace-spring-tool-suite-4-4.20.1.RELEASE\FinalProjDevLab
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
